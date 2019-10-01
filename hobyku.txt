@@ -1,3 +1,5 @@
 hobiku :
 - listening music
 - playing handphone
+- menfoto
+- ghibah
